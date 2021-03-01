@@ -1,1 +1,1 @@
-# OuterJ
+# pyexasol package
